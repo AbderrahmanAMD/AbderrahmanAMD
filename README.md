@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AbderrahmanAMD/AbderrahmanAMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github-header-image](https://github.com/user-attachments/assets/93928313-c1e6-4c92-91c1-89cd6e2a6efe)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=abderrahmanamd&label=Profile%20Views&color=8800dd&style=flat" alt="abderrahmanamd" /></p>
+
+<h2 align="left">Hi 👋, I'm Abderrahman</h2>
+
+<h3 align="left">High School Student</h3>
