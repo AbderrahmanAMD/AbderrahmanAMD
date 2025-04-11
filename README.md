@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَاۜ</h3>
 
 ![github-header-image](https://github.com/user-attachments/assets/93928313-c1e6-4c92-91c1-89cd6e2a6efe)
 
