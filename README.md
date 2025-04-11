@@ -1,6 +1,8 @@
 <div align="center">ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَاۜ</h3>
 
-![github-header-image](![download](https://github.com/user-attachments/assets/d12971f2-c8db-45f9-a30b-b0ba800406e0)
+
+![github-header-image](![download](![github-header-image](https://github.com/user-attachments/assets/e9e765b1-a87a-4a48-9326-836405bb0a65)
+
 
 
 </div>
