@@ -101,3 +101,17 @@ I am Abderrahman ELMADI developer, Systems engineer and I also like to design.
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
             alt="figma" width="40" height="40" /> </a>
 </p>
+
+## Certifications
+- OSCE
+- OSCP
+- CISSP
+- Security+
+- CNA
+- MCP
+- Network+
+- A+
+- PCI-ASV
+- SecurityTube Android Security For Penetration Testers
+
+  
