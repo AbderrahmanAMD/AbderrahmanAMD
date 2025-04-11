@@ -8,6 +8,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=abderrahmanamd&label=Profile%20Views&color=8800dd&style=flat" alt="abderrahmanamd" /></p>
 
-<h2 align="left">Hi 👋, I'm Abderrahman</h2>
+<h2 align="left">Hi 👋, I'm Abderrahman ELMADI</h2>
 
 <h3 align="left">High School Student</h3>
