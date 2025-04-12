@@ -104,7 +104,7 @@ I am Abderrahman ELMADI developer, Systems engineer and I also like to design.
             alt="figma" width="40" height="40" /> </a>
 </p>
 
-## Certifications
+## Certifications 🏅
 - OSCE
 - OSCP
 - CISSP
