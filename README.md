@@ -2,6 +2,8 @@
 
 
 
+
+
 ![github-header-image](https://github.com/user-attachments/assets/e9e765b1-a87a-4a48-9326-836405bb0a65)
 
 
@@ -14,7 +16,7 @@
 
 <h2 align="left">Hi 👋, I'm Abderrahman ELMADI</h2>
 
-### Hi there 👋
+
 
 I am Abderrahman ELMADI developer, Systems engineer and I also like to design.
 
