@@ -117,6 +117,16 @@ I am Abderrahman ELMADI developer, Systems engineer and I also like to design.
 - SecurityTube Android Security For Penetration Testers
 
   
+## <div align="center">Statistics and Analytics</div>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbderrahmanAMD&locale=en&layout=compact&langs_count=8" alt="AbderrahmanAMD" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AbderrahmanAMD&show_icons=true&locale=en&rank_icon=github" alt="AbderrahmanAMD" /></p>
+
+</div>
+
+<!-- MY ASSETS -->
+<!-- ![rounded-me](https://github.com/user-attachments/assets/b67c5a4f-8585-4b96-ac5b-cd15452f19bf) -->
+<!-- ![tailwindcss-icon](https://github.com/user-attachments/assets/b409de60-40c9-437b-b978-795d176e463e) -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbderrahmanAMD)](https://github.com/AbderrahmanAMD/github-readme-stats)
+
