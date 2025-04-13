@@ -116,5 +116,4 @@ I am Abderrahman ELMADI developer, Systems engineer and I also like to design.
 - PCI-ASV
 - SecurityTube Android Security For Penetration Testers
 
-  anuraghazra/github-readme-stats
-DenverCoder1/github-readme-streak-stats
+  
