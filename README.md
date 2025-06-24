@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abderrahman ELMADI</h1>
 <h3 align="center">A passionate frontend developer from Morocco,Demnate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrahmanamd&label=Profile%20views&color=0e75b6&style=flat" alt="abderrahmanamd" /> </p>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abderrahmanamd" alt="abderrahmanamd" /></a> </p>
 
