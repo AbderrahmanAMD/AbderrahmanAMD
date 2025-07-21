@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abderrahman ELMADI</h1>
+<h1 align="center" class="glow-text">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=41&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+I'm+Abderrahman!+👋" alt="Typing SVG" />
+</h1>
 <h3 align="center">A passionate frontend developer from Morocco,Demnate</h3>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green)
